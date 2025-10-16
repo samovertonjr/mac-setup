@@ -8,8 +8,6 @@
 
 # Taps (package repositories)
 tap "homebrew/bundle"
-tap "homebrew/cask-fonts"
-tap "homebrew/cask-versions"
 
 # Version Control
 brew "git"
